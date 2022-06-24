@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_1457" data-name="Group 1457" transform="translate(-1484 -10797)">
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="30" cy="30" r="30" transform="translate(1484 10797)" fill="#202967"/>
+    <g id="instagram-logo" transform="translate(1498 10811)">
+      <path id="Path_85" data-name="Path 85" d="M23.169,0H8.831A8.841,8.841,0,0,0,0,8.831V23.169A8.841,8.841,0,0,0,8.831,32H23.169A8.841,8.841,0,0,0,32,23.169V8.831A8.841,8.841,0,0,0,23.169,0Zm5.992,23.169a6,6,0,0,1-5.992,5.992H8.831a6,6,0,0,1-5.991-5.992V8.831A6,6,0,0,1,8.831,2.839H23.169a6,6,0,0,1,5.992,5.992V23.169Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_86" data-name="Path 86" d="M49.206,40.97a8.238,8.238,0,1,0,8.238,8.238A8.247,8.247,0,0,0,49.206,40.97Zm0,13.638a5.4,5.4,0,1,1,5.4-5.4A5.407,5.407,0,0,1,49.206,54.608Z" transform="translate(-33.206 -33.207)" fill="#fff"/>
+      <path id="Path_87" data-name="Path 87" d="M121.005,28.251a2.083,2.083,0,1,0,1.474.61A2.092,2.092,0,0,0,121.005,28.251Z" transform="translate(-96.415 -22.904)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
